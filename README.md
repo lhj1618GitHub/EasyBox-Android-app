@@ -1,10 +1,17 @@
-官网：https://www.easybox.pro/
+
+app官网：https://www.easybox.pro/
 
 接口：
 
 饭太硬：http://www.饭太硬.com/tv/
 
 奇奇多仓：http://z.qiqiv.cn/123.txt
+
+注：与电脑端 enjoy-player 部分接口可共用-https://github.com/xurenda/enjoy-player
+
+在搜索引擎上搜索“CMS视频资源站”
+
+进入视频资源站后，查看采集教程，复制JSON接口URL地址。
 
 
 
